@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baz on</string>
+    <string name="login">Login</string>
+    <string name="enter_credentials">Enter credentials</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="working_products">Working with products</string>
+    <string name="working_products_description">Search, Details,…</string>
+    <string name="add_image">Add image</string>
+    <string name="add_image_description">add image page</string>
+    <string name="add_product">Add product</string>
+    <string name="add_product_description">add product page</string>
+    <string name="search_by_number">Search by number</string>
+</resources>
